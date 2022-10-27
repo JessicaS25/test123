@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+img {
+    height:400px;
+    margin-left: 20%;
+    padding-right: 10px;
+}
+
+#tablechairs {
+    margin-left:35%;
+    padding-top:10px;
+}
+
+.Montessori {
+    text-align:center;
+}
+
+.subheading {
+    text-decoration: underline;
+}
